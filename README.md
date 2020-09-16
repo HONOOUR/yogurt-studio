@@ -24,6 +24,7 @@ The purpose of yogurt-web-admin is to provide admins with tools to manage their 
 
 The purpose of yogurt-mobile-student is to provide students with information to manage thier lectures, personal info and etc by themselves.
 Please refer to yogurt-studio_domo.mp4.
+
 ***https://github.com/yogurt-studio/yogurt-mobile-student.git***
 
 #### 4) yogurt-mobile-staff
